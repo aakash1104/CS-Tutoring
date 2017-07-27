@@ -16,7 +16,7 @@ This study guide is intended to be used by the students of UC Davis enrolled in 
 
 Written By: ***Aakash Prabhu (Class of 2019)***
 
-# Acknowledgements
+## Acknowledgements
 
 * I would like to thank [Professor Patrice Koehl](nook.cs.ucdavis.edu/~koehl/) for being such a great instructor and such a great inspiration to me.
 * I would like to thank the CS Department at UC Davis and the Computer Science Tutoring Club for making this possible!
