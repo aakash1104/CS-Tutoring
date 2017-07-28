@@ -1,6 +1,6 @@
 # ECS 20 Study Guide
 
-This study guide is intended to be used by the students of UC Davis enrolled in ***ECS 20: Discrete Math for CS***. Some topics in ECS 20 may be omitted by some professors and some other topics may be taught instead. This study guide was designed based on [Professor Patrice Koehl's ECS 20](nook.cs.ucdavis.edu/~koehl/Teaching/ECS20/)
+This study guide is intended to be used by the students of UC Davis enrolled in ***ECS 20: Discrete Math for CS***. Some topics in ECS 20 may be omitted by some professors and some other topics may be taught instead. This study guide was designed based on [Professor Patrice Koehl's ECS 20](http://www.cs.ucdavis.edu/~koehl/Teaching/ECS20)
 
 ## Topics Covered in this study guide
 
@@ -16,8 +16,8 @@ This study guide is intended to be used by the students of UC Davis enrolled in 
 
 Written By: ***Aakash Prabhu (Class of 2019)***
 
-# Acknowledgements
+## Acknowledgements
 
-* I would like to thank [Professor Patrice Koehl](nook.cs.ucdavis.edu/~koehl/) for being such a great instructor and such a great inspiration to me.
+* I would like to thank [Professor Patrice Koehl](http://www.cs.ucdavis.edu/~koehl/) for being such a great instructor and such a great inspiration to me.
 * I would like to thank the CS Department at UC Davis and the Computer Science Tutoring Club for making this possible!
 * Lastly, I am greatly indebted to my family and friends for their unconditional love and support.
